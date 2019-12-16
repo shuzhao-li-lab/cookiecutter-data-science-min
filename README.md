@@ -33,11 +33,12 @@ $ conda install cookiecutter
     cookiecutter https://github.com/shuzhao-li/cookiecutter-data-science-min
 
 cookiecutter will ask four questions:
+```
     project_name [project_name]: 
     repo_name [project_name]: 
     author_name [Your name (or your organization/company/team)]: 
     description [A short description of the project.]: 
-
+```
 It's okay not to have a repo_name here.
 
 
