@@ -49,7 +49,7 @@ The directory structure of your new project looks like this:
 
 ```
 ├── README.md
-├── Reproducibility-check-list.txt
+├── Reproducibility-checklist.txt
 ├── data
 │   ├── external
 │   ├── interim
